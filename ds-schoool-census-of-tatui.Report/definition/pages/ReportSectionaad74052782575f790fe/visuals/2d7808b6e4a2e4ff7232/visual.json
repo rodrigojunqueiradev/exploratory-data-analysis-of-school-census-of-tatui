@@ -19,6 +19,9 @@
               {
                 "textRuns": [
                   {
+                    "value": "© "
+                  },
+                  {
                     "value": "Feito por Rodrigo Junqueira em Outubro de 2024",
                     "textStyle": {
                       "fontFamily": "Arial",
