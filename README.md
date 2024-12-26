@@ -10,7 +10,7 @@ O repositório consiste em:
 - Dashboard elaborado na ferramenta Power BI para facilitar a visualização de alguns dados do censo escolar.
 
 ## Desenvolvimento:
-Para guia o desenvolvimento, busquei responder algumas perguntas, como:
+Para guiar o desenvolvimento, busquei responder algumas perguntas, como:
 - Sobre a análise geral dos dados
     - Qual é quantidade de estudantes da região imediata de Tatuí?
     - Qual é a quantidade de docentes da região?
