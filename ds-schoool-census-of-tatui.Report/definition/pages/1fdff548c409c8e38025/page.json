@@ -1,0 +1,8 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/1.2.0/schema.json",
+  "name": "1fdff548c409c8e38025",
+  "displayName": "Análise de gênero e cor/raça",
+  "displayOption": "FitToPage",
+  "height": 720,
+  "width": 1280
+}

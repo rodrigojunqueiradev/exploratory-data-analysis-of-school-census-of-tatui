@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "ds-schoool-census-of-tatui"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "32db427d-fb54-4788-90ae-d3aedefadaff"
+  }
+}

@@ -1,0 +1,5594 @@
+cultureInfo pt-BR
+
+	linguisticMetadata =
+			{
+			  "Version": "3.5.0",
+			  "Language": "en-US",
+			  "Entities": {
+			    "dado": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "dado": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "dado.v1_ANO1_ano": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "1_ANO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "1 ano": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "1_ANO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "Ano do Censo Escolar": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        },
+			        {
+			          "Ano": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "dado.v2_MUNICIPIO2_municipio": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "2_MUNICIPIO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "2 municipio": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "2_MUNICIPIO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "Município": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "dado.v3_TP_DEPENDENCIA3_tp_dependencia": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "3_TP_DEPENDENCIA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "3 tp dependencia": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "3_TP_DEPENDENCIA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "Dependência Administrativa": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "dado.v4_TP_LOCALIZACAO4_tp_localizacao": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "4_TP_LOCALIZACAO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "4 tp localizacao": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "4_TP_LOCALIZACAO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "Localização": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_agua_potavel": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_AGUA_POTAVEL"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in agua potavel": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_AGUA_POTAVEL": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_agua_inexistente": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_AGUA_INEXISTENTE"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in agua inexistente": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_AGUA_INEXISTENTE": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_energia_rede_publica": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_ENERGIA_REDE_PUBLICA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in energia rede publica": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_ENERGIA_REDE_PUBLICA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_energia_inexistente": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_ENERGIA_INEXISTENTE"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in energia inexistente": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_ENERGIA_INEXISTENTE": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_esgoto_rede_publica": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_ESGOTO_REDE_PUBLICA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in esgoto rede publica": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_ESGOTO_REDE_PUBLICA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_esgoto_inexistente": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_ESGOTO_INEXISTENTE"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in esgoto inexistente": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_ESGOTO_INEXISTENTE": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_auditorio": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_AUDITORIO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in auditorio": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_AUDITORIO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_banheiro": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_BANHEIRO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in banheiro": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_BANHEIRO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_banheiro_pne": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_BANHEIRO_PNE"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in banheiro pne": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_BANHEIRO_PNE": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_biblioteca": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_BIBLIOTECA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in biblioteca": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_BIBLIOTECA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_biblioteca_sala_leitura": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_BIBLIOTECA_SALA_LEITURA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in biblioteca sala leitura": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_BIBLIOTECA_SALA_LEITURA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_laboratorio_ciencia": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_LABORATORIO_CIENCIAS"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in laboratorio ciencia": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_LABORATORIO_CIENCIAS": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_laboratorio_informatica": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_LABORATORIO_INFORMATICA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in laboratorio informatica": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_LABORATORIO_INFORMATICA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_patio_coberto": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_PATIO_COBERTO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in patio coberto": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_PATIO_COBERTO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "in courtyard coberto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "in enclosure coberto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "in piazza coberto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "in backyard coberto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "in verandah coberto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "in veranda coberto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "in yard coberto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "in square coberto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "in quad coberto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "in court coberto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_patio_descoberto": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_PATIO_DESCOBERTO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in patio descoberto": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_PATIO_DESCOBERTO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "in courtyard descoberto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "in enclosure descoberto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "in piazza descoberto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "in backyard descoberto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "in verandah descoberto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "in veranda descoberto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "in yard descoberto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "in square descoberto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "in quad descoberto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "in court descoberto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_parque_infantil": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_PARQUE_INFANTIL"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in parque infantil": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_PARQUE_INFANTIL": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_piscina": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_PISCINA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in piscina": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_PISCINA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_quadra_esporte": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_QUADRA_ESPORTES"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in quadra esporte": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_QUADRA_ESPORTES": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_refeitorio": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_REFEITORIO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in refeitorio": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_REFEITORIO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_computador": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_COMPUTADOR"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in computador": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_COMPUTADOR": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_equip_lousa_digital": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_EQUIP_LOUSA_DIGITAL"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in equip lousa digital": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_EQUIP_LOUSA_DIGITAL": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_equip_lousa_digital": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_EQUIP_LOUSA_DIGITAL"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt equip lousa digital": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_EQUIP_LOUSA_DIGITAL": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_equip_multimidia": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_EQUIP_MULTIMIDIA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in equip multimidia": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_EQUIP_MULTIMIDIA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_equip_multimidia": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_EQUIP_MULTIMIDIA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt equip multimidia": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_EQUIP_MULTIMIDIA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_desktop_aluno": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_DESKTOP_ALUNO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in desktop aluno": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_DESKTOP_ALUNO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_desktop_aluno": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_DESKTOP_ALUNO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt desktop aluno": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_DESKTOP_ALUNO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_comp_portatil_aluno": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_COMP_PORTATIL_ALUNO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in comp portatil aluno": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_COMP_PORTATIL_ALUNO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_comp_portatil_aluno": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_COMP_PORTATIL_ALUNO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt comp portatil aluno": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_COMP_PORTATIL_ALUNO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_tablet_aluno": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_TABLET_ALUNO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in tablet aluno": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_TABLET_ALUNO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "in lozenge aluno": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "in dosage aluno": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "in pill aluno": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "in drug aluno": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "in capsule aluno": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "in dose aluno": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "in plaque aluno": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "in slab aluno": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.468
+			          }
+			        },
+			        {
+			          "in block aluno": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.468
+			          }
+			        },
+			        {
+			          "in cake aluno": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.468
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_tablet_aluno": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_TABLET_ALUNO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt tablet aluno": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_TABLET_ALUNO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_internet": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_INTERNET"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in internet": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_INTERNET": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "internet": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_internet_aluno": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_INTERNET_ALUNOS"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in internet aluno": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_INTERNET_ALUNOS": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_prof_servicos_gerais": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_PROF_SERVICOS_GERAIS"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in prof servicos gerais": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "in prof servico gerais": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "IN_PROF_SERVICOS_GERAIS": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_prof_servicos_gerais": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_PROF_SERVICOS_GERAIS"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt prof servicos gerais": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "qt prof servico gerais": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "QT_PROF_SERVICOS_GERAIS": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_prof_bibliotecario": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_PROF_BIBLIOTECARIO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in prof bibliotecario": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_PROF_BIBLIOTECARIO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_prof_bibliotecario": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_PROF_BIBLIOTECARIO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt prof bibliotecario": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_PROF_BIBLIOTECARIO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_prof_saude": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_PROF_SAUDE"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in prof saude": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_PROF_SAUDE": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_prof_saude": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_PROF_SAUDE"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt prof saude": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_PROF_SAUDE": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_prof_coordenador": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_PROF_COORDENADOR"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in prof coordenador": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_PROF_COORDENADOR": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_prof_coordenador": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_PROF_COORDENADOR"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt prof coordenador": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_PROF_COORDENADOR": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_prof_fonaudiologo": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_PROF_FONAUDIOLOGO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in prof fonaudiologo": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_PROF_FONAUDIOLOGO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_prof_fonaudiologo": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_PROF_FONAUDIOLOGO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt prof fonaudiologo": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_PROF_FONAUDIOLOGO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_prof_nutricionista": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_PROF_NUTRICIONISTA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in prof nutricionista": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_PROF_NUTRICIONISTA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_prof_nutricionista": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_PROF_NUTRICIONISTA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt prof nutricionista": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_PROF_NUTRICIONISTA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_prof_psicologo": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_PROF_PSICOLOGO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in prof psicologo": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_PROF_PSICOLOGO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_prof_psicologo": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_PROF_PSICOLOGO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt prof psicologo": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_PROF_PSICOLOGO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_prof_seguranca": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_PROF_SEGURANCA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in prof seguranca": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_PROF_SEGURANCA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_prof_seguranca": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_PROF_SEGURANCA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt prof seguranca": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_PROF_SEGURANCA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_prof_monitore": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_PROF_MONITORES"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in prof monitore": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_PROF_MONITORES": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_prof_monitore": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_PROF_MONITORES"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt prof monitore": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_PROF_MONITORES": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_prof_assist_social": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_PROF_ASSIST_SOCIAL"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in prof assist social": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_PROF_ASSIST_SOCIAL": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "social": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "assist social": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "prof assist social": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "in prof contribution social": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.514
+			          }
+			        },
+			        {
+			          "in prof promotion social": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.514
+			          }
+			        },
+			        {
+			          "in prof assistance social": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.514
+			          }
+			        },
+			        {
+			          "in prof backing social": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "in prof support social": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "in prof succor social": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "community": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "common": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "public": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "collective": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_prof_assist_social": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_PROF_ASSIST_SOCIAL"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt prof assist social": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_PROF_ASSIST_SOCIAL": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "qt prof assist party": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.474
+			          }
+			        },
+			        {
+			          "qt prof assist get-together": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.474
+			          }
+			        },
+			        {
+			          "qt prof assist gathering": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.474
+			          }
+			        }
+			      ]
+			    },
+			    "dado.in_alimentacao": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "IN_ALIMENTACAO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "in alimentacao": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "IN_ALIMENTACAO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.v0_QT_MAT_BAS0_qt_mat_bas": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "0_QT_MAT_BAS"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "0 qt mat bas": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "0_QT_MAT_BAS": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_mat_inf": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_MAT_INF"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt mat inf": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_MAT_INF": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_mat_fund": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_MAT_FUND"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt mat fund": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_MAT_FUND": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "qt mat endowment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "qt mat account": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "qt mat trust": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "qt mat deposit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "qt mat supply": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "qt mat stock": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "qt mat reserve": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "qt mat collection": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "qt mat store": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.468
+			          }
+			        },
+			        {
+			          "qt mat source": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.468
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_mat_fund_ai": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_MAT_FUND_AI"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt mat fund ai": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_MAT_FUND_AI": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_mat_fund_af": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_MAT_FUND_AF"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt mat fund af": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_MAT_FUND_AF": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_mat_med": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_MAT_MED"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt mat med": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_MAT_MED": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_mat_eja": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_MAT_EJA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt mat eja": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_MAT_EJA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_mat_eja_fund": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_MAT_EJA_FUND"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt mat eja fund": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_MAT_EJA_FUND": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "qt mat eja endowment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.514
+			          }
+			        },
+			        {
+			          "qt mat eja account": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "qt mat eja trust": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "qt mat eja deposit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "qt mat eja supply": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "qt mat eja stock": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "qt mat eja reserve": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "qt mat eja collection": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.489
+			          }
+			        },
+			        {
+			          "qt mat eja store": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.474
+			          }
+			        },
+			        {
+			          "qt mat eja source": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.474
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_mat_eja_med": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_MAT_EJA_MED"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt mat eja med": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_MAT_EJA_MED": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_mat_esp": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_MAT_ESP"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt mat esp": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_MAT_ESP": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_mat_bas_fem": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_MAT_BAS_FEM"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt mat bas fem": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_MAT_BAS_FEM": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_mat_bas_masc": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_MAT_BAS_MASC"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt mat bas masc": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_MAT_BAS_MASC": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_mat_bas_nd": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_MAT_BAS_ND"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt mat bas nd": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_MAT_BAS_ND": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_mat_bas_branca": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_MAT_BAS_BRANCA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt mat bas branca": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_MAT_BAS_BRANCA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_mat_bas_preta": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_MAT_BAS_PRETA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt mat bas preta": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_MAT_BAS_PRETA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_mat_bas_parda": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_MAT_BAS_PARDA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt mat bas parda": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_MAT_BAS_PARDA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_mat_bas_amarela": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_MAT_BAS_AMARELA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt mat bas amarela": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_MAT_BAS_AMARELA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_mat_bas_indigena": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_MAT_BAS_INDIGENA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt mat bas indigena": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_MAT_BAS_INDIGENA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.v5_QT_DOC_BAS5_qt_doc_bas": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "5_QT_DOC_BAS"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "5 qt doc bas": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "5_QT_DOC_BAS": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_doc_inf": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_DOC_INF"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt doc inf": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_DOC_INF": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_doc_fund": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_DOC_FUND"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt doc fund": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_DOC_FUND": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "qt doc endowment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "qt doc account": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "qt doc trust": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "qt doc deposit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "qt doc supply": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "qt doc stock": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "qt doc reserve": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "qt doc collection": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.482
+			          }
+			        },
+			        {
+			          "qt doc store": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.468
+			          }
+			        },
+			        {
+			          "qt doc source": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.468
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_doc_med": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_DOC_MED"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt doc med": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_DOC_MED": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_doc_eja": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_DOC_EJA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt doc eja": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_DOC_EJA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_doc_eja_fund": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_DOC_EJA_FUND"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt doc eja fund": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_DOC_EJA_FUND": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "qt doc eja endowment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.514
+			          }
+			        },
+			        {
+			          "qt doc eja account": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "qt doc eja trust": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "qt doc eja deposit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "qt doc eja supply": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "qt doc eja stock": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "qt doc eja reserve": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.499
+			          }
+			        },
+			        {
+			          "qt doc eja collection": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.489
+			          }
+			        },
+			        {
+			          "qt doc eja store": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.474
+			          }
+			        },
+			        {
+			          "qt doc eja source": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.474
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_doc_eja_med": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_DOC_EJA_MED"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt doc eja med": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_DOC_EJA_MED": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "dado.qt_doc_esp": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "dados",
+			          "ConceptualProperty": "QT_DOC_ESP"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qt doc esp": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "QT_DOC_ESP": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    }
+			  },
+			  "Relationships": {
+			    "dado_has_qt_doc_esp": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_doc_esp": {
+			          "Target": {
+			            "Entity": "dado.qt_doc_esp"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_doc_esp"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_doc_esps"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_doc_eja_med": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_doc_eja_med": {
+			          "Target": {
+			            "Entity": "dado.qt_doc_eja_med"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_doc_eja_med"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_doc_eja_meds"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_doc_eja_fund": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_doc_eja_fund": {
+			          "Target": {
+			            "Entity": "dado.qt_doc_eja_fund"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_doc_eja_fund"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_doc_eja_funds"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_doc_eja": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_doc_eja": {
+			          "Target": {
+			            "Entity": "dado.qt_doc_eja"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_doc_eja"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_doc_ejas"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_doc_med": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_doc_med": {
+			          "Target": {
+			            "Entity": "dado.qt_doc_med"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_doc_med"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_doc_meds"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_doc_fund": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_doc_fund": {
+			          "Target": {
+			            "Entity": "dado.qt_doc_fund"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_doc_fund"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_doc_funds"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_doc_inf": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_doc_inf": {
+			          "Target": {
+			            "Entity": "dado.qt_doc_inf"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_doc_inf"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_doc_inf"
+			        }
+			      ]
+			    },
+			    "dado_has_v5_QT_DOC_BAS5_qt_doc_bas": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.v5_QT_DOC_BAS5_qt_doc_bas": {
+			          "Target": {
+			            "Entity": "dado.v5_QT_DOC_BAS5_qt_doc_bas"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.v5_QT_DOC_BAS5_qt_doc_bas"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_5_qt_doc_bases"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_mat_bas_indigena": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_mat_bas_indigena": {
+			          "Target": {
+			            "Entity": "dado.qt_mat_bas_indigena"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_mat_bas_indigena"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_mat_bas_indigenas"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_mat_bas_amarela": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_mat_bas_amarela": {
+			          "Target": {
+			            "Entity": "dado.qt_mat_bas_amarela"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_mat_bas_amarela"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_mat_bas_amarelas"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_mat_bas_parda": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_mat_bas_parda": {
+			          "Target": {
+			            "Entity": "dado.qt_mat_bas_parda"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_mat_bas_parda"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_mat_bas_pardas"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_mat_bas_preta": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_mat_bas_preta": {
+			          "Target": {
+			            "Entity": "dado.qt_mat_bas_preta"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_mat_bas_preta"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_mat_bas_pretas"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_mat_bas_branca": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_mat_bas_branca": {
+			          "Target": {
+			            "Entity": "dado.qt_mat_bas_branca"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_mat_bas_branca"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_mat_bas_brancas"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_mat_bas_nd": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_mat_bas_nd": {
+			          "Target": {
+			            "Entity": "dado.qt_mat_bas_nd"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_mat_bas_nd"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_mat_bas_nd"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_mat_bas_masc": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_mat_bas_masc": {
+			          "Target": {
+			            "Entity": "dado.qt_mat_bas_masc"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_mat_bas_masc"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_mat_bas_mascs"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_mat_bas_fem": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_mat_bas_fem": {
+			          "Target": {
+			            "Entity": "dado.qt_mat_bas_fem"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_mat_bas_fem"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_mat_bas_fem"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_mat_esp": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_mat_esp": {
+			          "Target": {
+			            "Entity": "dado.qt_mat_esp"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_mat_esp"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_mat_esps"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_mat_eja_med": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_mat_eja_med": {
+			          "Target": {
+			            "Entity": "dado.qt_mat_eja_med"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_mat_eja_med"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_mat_eja_meds"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_mat_eja_fund": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_mat_eja_fund": {
+			          "Target": {
+			            "Entity": "dado.qt_mat_eja_fund"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_mat_eja_fund"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_mat_eja_funds"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_mat_eja": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_mat_eja": {
+			          "Target": {
+			            "Entity": "dado.qt_mat_eja"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_mat_eja"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_mat_ejas"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_mat_med": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_mat_med": {
+			          "Target": {
+			            "Entity": "dado.qt_mat_med"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_mat_med"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_mat_meds"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_mat_fund_af": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_mat_fund_af": {
+			          "Target": {
+			            "Entity": "dado.qt_mat_fund_af"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_mat_fund_af"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_mat_fund_af"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_mat_fund_ai": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_mat_fund_ai": {
+			          "Target": {
+			            "Entity": "dado.qt_mat_fund_ai"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_mat_fund_ai"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_mat_fund_ai"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_mat_fund": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_mat_fund": {
+			          "Target": {
+			            "Entity": "dado.qt_mat_fund"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_mat_fund"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_mat_funds"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_mat_inf": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_mat_inf": {
+			          "Target": {
+			            "Entity": "dado.qt_mat_inf"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_mat_inf"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_mat_inf"
+			        }
+			      ]
+			    },
+			    "dado_has_v0_QT_MAT_BAS0_qt_mat_bas": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.v0_QT_MAT_BAS0_qt_mat_bas": {
+			          "Target": {
+			            "Entity": "dado.v0_QT_MAT_BAS0_qt_mat_bas"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.v0_QT_MAT_BAS0_qt_mat_bas"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_0_qt_mat_bases"
+			        }
+			      ]
+			    },
+			    "dado_has_in_alimentacao": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_alimentacao": {
+			          "Target": {
+			            "Entity": "dado.in_alimentacao"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_alimentacao"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_alimentacao"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_prof_assist_social": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_prof_assist_social": {
+			          "Target": {
+			            "Entity": "dado.qt_prof_assist_social"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_prof_assist_social"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_prof_assist_socials"
+			        }
+			      ]
+			    },
+			    "dado_has_in_prof_assist_social": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_prof_assist_social": {
+			          "Target": {
+			            "Entity": "dado.in_prof_assist_social"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_prof_assist_social"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_prof_assist_social"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_prof_monitore": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_prof_monitore": {
+			          "Target": {
+			            "Entity": "dado.qt_prof_monitore"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_prof_monitore"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_prof_monitores"
+			        }
+			      ]
+			    },
+			    "dado_has_in_prof_monitore": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_prof_monitore": {
+			          "Target": {
+			            "Entity": "dado.in_prof_monitore"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_prof_monitore"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_prof_monitore"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_prof_seguranca": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_prof_seguranca": {
+			          "Target": {
+			            "Entity": "dado.qt_prof_seguranca"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_prof_seguranca"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_prof_segurancas"
+			        }
+			      ]
+			    },
+			    "dado_has_in_prof_seguranca": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_prof_seguranca": {
+			          "Target": {
+			            "Entity": "dado.in_prof_seguranca"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_prof_seguranca"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_prof_seguranca"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_prof_psicologo": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_prof_psicologo": {
+			          "Target": {
+			            "Entity": "dado.qt_prof_psicologo"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_prof_psicologo"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_prof_psicologos"
+			        }
+			      ]
+			    },
+			    "dado_has_in_prof_psicologo": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_prof_psicologo": {
+			          "Target": {
+			            "Entity": "dado.in_prof_psicologo"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_prof_psicologo"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_prof_psicologo"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_prof_nutricionista": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_prof_nutricionista": {
+			          "Target": {
+			            "Entity": "dado.qt_prof_nutricionista"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_prof_nutricionista"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_prof_nutricionistas"
+			        }
+			      ]
+			    },
+			    "dado_has_in_prof_nutricionista": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_prof_nutricionista": {
+			          "Target": {
+			            "Entity": "dado.in_prof_nutricionista"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_prof_nutricionista"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_prof_nutricionista"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_prof_fonaudiologo": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_prof_fonaudiologo": {
+			          "Target": {
+			            "Entity": "dado.qt_prof_fonaudiologo"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_prof_fonaudiologo"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_prof_fonaudiologos"
+			        }
+			      ]
+			    },
+			    "dado_has_in_prof_fonaudiologo": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_prof_fonaudiologo": {
+			          "Target": {
+			            "Entity": "dado.in_prof_fonaudiologo"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_prof_fonaudiologo"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_prof_fonaudiologo"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_prof_coordenador": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_prof_coordenador": {
+			          "Target": {
+			            "Entity": "dado.qt_prof_coordenador"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_prof_coordenador"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_prof_coordenadors"
+			        }
+			      ]
+			    },
+			    "dado_has_in_prof_coordenador": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_prof_coordenador": {
+			          "Target": {
+			            "Entity": "dado.in_prof_coordenador"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_prof_coordenador"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_prof_coordenador"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_prof_saude": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_prof_saude": {
+			          "Target": {
+			            "Entity": "dado.qt_prof_saude"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_prof_saude"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_prof_saudes"
+			        }
+			      ]
+			    },
+			    "dado_has_in_prof_saude": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_prof_saude": {
+			          "Target": {
+			            "Entity": "dado.in_prof_saude"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_prof_saude"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_prof_saude"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_prof_bibliotecario": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_prof_bibliotecario": {
+			          "Target": {
+			            "Entity": "dado.qt_prof_bibliotecario"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_prof_bibliotecario"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_prof_bibliotecarios"
+			        }
+			      ]
+			    },
+			    "dado_has_in_prof_bibliotecario": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_prof_bibliotecario": {
+			          "Target": {
+			            "Entity": "dado.in_prof_bibliotecario"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_prof_bibliotecario"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_prof_bibliotecario"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_prof_servicos_gerais": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_prof_servicos_gerais": {
+			          "Target": {
+			            "Entity": "dado.qt_prof_servicos_gerais"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_prof_servicos_gerais"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_prof_servicos_geraises"
+			        }
+			      ]
+			    },
+			    "dado_has_in_prof_servicos_gerais": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_prof_servicos_gerais": {
+			          "Target": {
+			            "Entity": "dado.in_prof_servicos_gerais"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_prof_servicos_gerais"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_prof_servicos_gerais"
+			        }
+			      ]
+			    },
+			    "dado_has_in_internet_aluno": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_internet_aluno": {
+			          "Target": {
+			            "Entity": "dado.in_internet_aluno"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_internet_aluno"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_internet_aluno"
+			        }
+			      ]
+			    },
+			    "dado_has_in_internet": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_internet": {
+			          "Target": {
+			            "Entity": "dado.in_internet"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_internet"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_internet"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_tablet_aluno": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_tablet_aluno": {
+			          "Target": {
+			            "Entity": "dado.qt_tablet_aluno"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_tablet_aluno"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_tablet_alunos"
+			        }
+			      ]
+			    },
+			    "dado_has_in_tablet_aluno": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_tablet_aluno": {
+			          "Target": {
+			            "Entity": "dado.in_tablet_aluno"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_tablet_aluno"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_tablet_aluno"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_comp_portatil_aluno": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_comp_portatil_aluno": {
+			          "Target": {
+			            "Entity": "dado.qt_comp_portatil_aluno"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_comp_portatil_aluno"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_comp_portatil_alunos"
+			        }
+			      ]
+			    },
+			    "dado_has_in_comp_portatil_aluno": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_comp_portatil_aluno": {
+			          "Target": {
+			            "Entity": "dado.in_comp_portatil_aluno"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_comp_portatil_aluno"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_comp_portatil_aluno"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_desktop_aluno": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_desktop_aluno": {
+			          "Target": {
+			            "Entity": "dado.qt_desktop_aluno"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_desktop_aluno"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_desktop_alunos"
+			        }
+			      ]
+			    },
+			    "dado_has_in_desktop_aluno": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_desktop_aluno": {
+			          "Target": {
+			            "Entity": "dado.in_desktop_aluno"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_desktop_aluno"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_desktop_aluno"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_equip_multimidia": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_equip_multimidia": {
+			          "Target": {
+			            "Entity": "dado.qt_equip_multimidia"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_equip_multimidia"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_equip_multimidia"
+			        }
+			      ]
+			    },
+			    "dado_has_in_equip_multimidia": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_equip_multimidia": {
+			          "Target": {
+			            "Entity": "dado.in_equip_multimidia"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_equip_multimidia"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_equip_multimidia"
+			        }
+			      ]
+			    },
+			    "dado_has_qt_equip_lousa_digital": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.qt_equip_lousa_digital": {
+			          "Target": {
+			            "Entity": "dado.qt_equip_lousa_digital"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.qt_equip_lousa_digital"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_qt_equip_lousa_digital"
+			        }
+			      ]
+			    },
+			    "dado_has_in_equip_lousa_digital": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_equip_lousa_digital": {
+			          "Target": {
+			            "Entity": "dado.in_equip_lousa_digital"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_equip_lousa_digital"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_equip_lousa_digital"
+			        }
+			      ]
+			    },
+			    "dado_has_in_computador": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_computador": {
+			          "Target": {
+			            "Entity": "dado.in_computador"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_computador"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_computador"
+			        }
+			      ]
+			    },
+			    "dado_has_in_refeitorio": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_refeitorio": {
+			          "Target": {
+			            "Entity": "dado.in_refeitorio"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_refeitorio"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_refeitorio"
+			        }
+			      ]
+			    },
+			    "dado_has_in_quadra_esporte": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_quadra_esporte": {
+			          "Target": {
+			            "Entity": "dado.in_quadra_esporte"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_quadra_esporte"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_quadra_esporte"
+			        }
+			      ]
+			    },
+			    "dado_has_in_piscina": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_piscina": {
+			          "Target": {
+			            "Entity": "dado.in_piscina"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_piscina"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_piscina"
+			        }
+			      ]
+			    },
+			    "dado_has_in_parque_infantil": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_parque_infantil": {
+			          "Target": {
+			            "Entity": "dado.in_parque_infantil"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_parque_infantil"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_parque_infantil"
+			        }
+			      ]
+			    },
+			    "dado_has_in_patio_descoberto": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_patio_descoberto": {
+			          "Target": {
+			            "Entity": "dado.in_patio_descoberto"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_patio_descoberto"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_patio_descoberto"
+			        }
+			      ]
+			    },
+			    "dado_has_in_patio_coberto": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_patio_coberto": {
+			          "Target": {
+			            "Entity": "dado.in_patio_coberto"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_patio_coberto"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_patio_coberto"
+			        }
+			      ]
+			    },
+			    "dado_has_in_laboratorio_informatica": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_laboratorio_informatica": {
+			          "Target": {
+			            "Entity": "dado.in_laboratorio_informatica"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_laboratorio_informatica"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_laboratorio_informatica"
+			        }
+			      ]
+			    },
+			    "dado_has_in_laboratorio_ciencia": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_laboratorio_ciencia": {
+			          "Target": {
+			            "Entity": "dado.in_laboratorio_ciencia"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_laboratorio_ciencia"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_laboratorio_ciencia"
+			        }
+			      ]
+			    },
+			    "dado_has_in_biblioteca_sala_leitura": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_biblioteca_sala_leitura": {
+			          "Target": {
+			            "Entity": "dado.in_biblioteca_sala_leitura"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_biblioteca_sala_leitura"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_biblioteca_sala_leitura"
+			        }
+			      ]
+			    },
+			    "dado_has_in_biblioteca": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_biblioteca": {
+			          "Target": {
+			            "Entity": "dado.in_biblioteca"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_biblioteca"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_biblioteca"
+			        }
+			      ]
+			    },
+			    "dado_has_in_banheiro_pne": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_banheiro_pne": {
+			          "Target": {
+			            "Entity": "dado.in_banheiro_pne"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_banheiro_pne"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_banheiro_pne"
+			        }
+			      ]
+			    },
+			    "dado_has_in_banheiro": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_banheiro": {
+			          "Target": {
+			            "Entity": "dado.in_banheiro"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_banheiro"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_banheiro"
+			        }
+			      ]
+			    },
+			    "dado_has_in_auditorio": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_auditorio": {
+			          "Target": {
+			            "Entity": "dado.in_auditorio"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_auditorio"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_auditorio"
+			        }
+			      ]
+			    },
+			    "dado_has_in_esgoto_inexistente": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_esgoto_inexistente": {
+			          "Target": {
+			            "Entity": "dado.in_esgoto_inexistente"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_esgoto_inexistente"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_esgoto_inexistente"
+			        }
+			      ]
+			    },
+			    "dado_has_in_esgoto_rede_publica": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_esgoto_rede_publica": {
+			          "Target": {
+			            "Entity": "dado.in_esgoto_rede_publica"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_esgoto_rede_publica"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_esgoto_rede_publica"
+			        }
+			      ]
+			    },
+			    "dado_has_in_energia_inexistente": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_energia_inexistente": {
+			          "Target": {
+			            "Entity": "dado.in_energia_inexistente"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_energia_inexistente"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_energia_inexistente"
+			        }
+			      ]
+			    },
+			    "dado_has_in_energia_rede_publica": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_energia_rede_publica": {
+			          "Target": {
+			            "Entity": "dado.in_energia_rede_publica"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_energia_rede_publica"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_energia_rede_publica"
+			        }
+			      ]
+			    },
+			    "dado_has_in_agua_inexistente": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_agua_inexistente": {
+			          "Target": {
+			            "Entity": "dado.in_agua_inexistente"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_agua_inexistente"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_agua_inexistente"
+			        }
+			      ]
+			    },
+			    "dado_has_in_agua_potavel": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.in_agua_potavel": {
+			          "Target": {
+			            "Entity": "dado.in_agua_potavel"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.in_agua_potavel"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_in_agua_potavel"
+			        }
+			      ]
+			    },
+			    "dado_has_v4_TP_LOCALIZACAO4_tp_localizacao": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.v4_TP_LOCALIZACAO4_tp_localizacao": {
+			          "Target": {
+			            "Entity": "dado.v4_TP_LOCALIZACAO4_tp_localizacao"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.v4_TP_LOCALIZACAO4_tp_localizacao"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_4_tp_localizacaos"
+			        }
+			      ]
+			    },
+			    "dado_has_v3_TP_DEPENDENCIA3_tp_dependencia": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.v3_TP_DEPENDENCIA3_tp_dependencia": {
+			          "Target": {
+			            "Entity": "dado.v3_TP_DEPENDENCIA3_tp_dependencia"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.v3_TP_DEPENDENCIA3_tp_dependencia"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_3_tp_dependencias"
+			        }
+			      ]
+			    },
+			    "dado_has_v2_MUNICIPIO2_municipio": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.v2_MUNICIPIO2_municipio": {
+			          "Target": {
+			            "Entity": "dado.v2_MUNICIPIO2_municipio"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.v2_MUNICIPIO2_municipio"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_2_municipios"
+			        }
+			      ]
+			    },
+			    "dado_has_v1_ANO1_ano": {
+			      "Binding": {
+			        "ConceptualEntity": "dados"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "dado": {
+			          "Target": {
+			            "Entity": "dado"
+			          }
+			        },
+			        "dado.v1_ANO1_ano": {
+			          "Target": {
+			            "Entity": "dado.v1_ANO1_ano"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "dado"
+			            },
+			            "Object": {
+			              "Role": "dado.v1_ANO1_ano"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dadoes_have_1_anos"
+			        }
+			      ]
+			    }
+			  }
+			}
+		contentType: json
+

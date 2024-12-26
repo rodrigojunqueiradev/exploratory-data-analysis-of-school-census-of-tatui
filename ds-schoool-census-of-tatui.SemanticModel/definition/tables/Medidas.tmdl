@@ -1,0 +1,195 @@
+table Medidas
+	lineageTag: 0d35186f-430f-4fc1-ae6f-9c7af4f17540
+
+	measure PercentualBanheiros =
+			
+			VAR TotalVariavel = CALCULATE(COUNTROWS(dados), dados[IN_BANHEIRO] = 1)
+			VAR TotalRegistros = CALCULATE(COUNTROWS(dados))
+			RETURN
+			DIVIDE(TotalVariavel, TotalRegistros, 0)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: 14aa2e64-8e3e-47e1-8973-40e53d88c870
+
+	measure PercentualBanheirosPCD =
+			
+			VAR TotalVariavel = CALCULATE(COUNTROWS(dados), dados[IN_BANHEIRO_PNE] = 1)
+			VAR TotalRegistros = CALCULATE(COUNTROWS(dados))
+			RETURN
+			DIVIDE(TotalVariavel, TotalRegistros, 0)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: 6fac7c4a-7f89-4ec3-bec0-8ade358d28cf
+
+	measure PercentualAgua =
+			
+			VAR TotalVariavel = CALCULATE(COUNTROWS(dados), dados[IN_AGUA_POTAVEL] = 1)
+			VAR TotalRegistros = CALCULATE(COUNTROWS(dados))
+			RETURN
+			DIVIDE(TotalVariavel, TotalRegistros, 0)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: 317c3f20-b8a3-4667-a929-5790a5485cc8
+
+	measure PercentualBiblioteca =
+			
+			VAR TotalVariavel = CALCULATE(COUNTROWS(dados), dados[IN_BIBLIOTECA] = 1)
+			VAR TotalRegistros = CALCULATE(COUNTROWS(dados))
+			RETURN
+			DIVIDE(TotalVariavel, TotalRegistros, 0)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: 24ad5535-0b28-4ee9-a3bc-3fafeea65caa
+
+	measure PercentualBibliotecaLeitura =
+			
+			VAR TotalVariavel = CALCULATE(COUNTROWS(dados), dados[IN_BIBLIOTECA_SALA_LEITURA] = 1)
+			VAR TotalRegistros = CALCULATE(COUNTROWS(dados))
+			RETURN
+			DIVIDE(TotalVariavel, TotalRegistros, 0)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: 13cf1498-effd-4ccc-9c20-7503230ad7e5
+
+	measure PercentualQuadraEsportes =
+			
+			VAR TotalVariavel = CALCULATE(COUNTROWS(dados), dados[IN_QUADRA_ESPORTES] = 1)
+			VAR TotalRegistros = CALCULATE(COUNTROWS(dados))
+			RETURN
+			DIVIDE(TotalVariavel, TotalRegistros, 0)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: c0bd94e2-8fae-4233-83f0-2051422dd5f2
+
+	measure PercentualLabInfo =
+			
+			VAR TotalVariavel = CALCULATE(COUNTROWS(dados), dados[IN_LABORATORIO_INFORMATICA] = 1)
+			VAR TotalRegistros = CALCULATE(COUNTROWS(dados))
+			RETURN
+			DIVIDE(TotalVariavel, TotalRegistros, 0)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: eda097f4-2cf5-4d1e-b513-9348ea64e98b
+
+	measure PercentualLabCiencias =
+			
+			VAR TotalVariavel = CALCULATE(COUNTROWS(dados), dados[IN_LABORATORIO_CIENCIAS] = 1)
+			VAR TotalRegistros = CALCULATE(COUNTROWS(dados))
+			RETURN
+			DIVIDE(TotalVariavel, TotalRegistros, 0)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: 0007249d-3d32-414d-9e28-ae03416d37bf
+
+	measure PercentualPiscina =
+			
+			VAR TotalVariavel = CALCULATE(COUNTROWS(dados), dados[IN_PISCINA] = 1)
+			VAR TotalRegistros = CALCULATE(COUNTROWS(dados))
+			RETURN
+			DIVIDE(TotalVariavel, TotalRegistros, 0)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: b7d6cdd3-564e-4e83-9c76-e782b89ec9e2
+
+	measure PercentualRefeitorio =
+			
+			VAR TotalVariavel = CALCULATE(COUNTROWS(dados), dados[IN_REFEITORIO] = 1)
+			VAR TotalRegistros = CALCULATE(COUNTROWS(dados))
+			RETURN
+			DIVIDE(TotalVariavel, TotalRegistros, 0)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: 834cc15a-c088-47b0-8551-657b1954fd0f
+
+	measure PercentualAlimentacaoEscolar =
+			
+			VAR TotalVariavel = CALCULATE(COUNTROWS(dados), dados[IN_ALIMENTACAO] = 1)
+			VAR TotalRegistros = CALCULATE(COUNTROWS(dados))
+			RETURN
+			DIVIDE(TotalVariavel, TotalRegistros, 0)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: 03e32f12-47a3-4842-a818-6c9308e82f77
+
+	measure PercentualAuditorio =
+			
+			VAR TotalVariavel = CALCULATE(COUNTROWS(dados), dados[IN_AUDITORIO] = 1)
+			VAR TotalRegistros = CALCULATE(COUNTROWS(dados))
+			RETURN
+			DIVIDE(TotalVariavel, TotalRegistros, 0)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: faa90c32-0e23-4a3b-8807-a486127c7a5a
+
+	measure PercentualInternet =
+			
+			VAR TotalVariavel = CALCULATE(COUNTROWS(dados), dados[IN_INTERNET] = 1)
+			VAR TotalRegistros = CALCULATE(COUNTROWS(dados))
+			RETURN
+			DIVIDE(TotalVariavel, TotalRegistros, 0)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: 6f2c0da8-4f52-40c5-bebd-313b03a6f924
+
+	measure PercentualInternetEstud =
+			
+			VAR TotalVariavel = CALCULATE(COUNTROWS(dados), dados[IN_INTERNET_ALUNOS] = 1)
+			VAR TotalRegistros = CALCULATE(COUNTROWS(dados))
+			RETURN
+			DIVIDE(TotalVariavel, TotalRegistros, 0)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: 9e28368e-e865-40f2-925c-f0b021f321ab
+
+	measure PercentualComputadores =
+			
+			VAR TotalVariavel = CALCULATE(COUNTROWS(dados), dados[IN_COMPUTADOR] = 1)
+			VAR TotalRegistros = CALCULATE(COUNTROWS(dados))
+			RETURN
+			DIVIDE(TotalVariavel, TotalRegistros, 0)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: 2465090a-e31d-4cf2-991a-6972f49d6dd1
+
+	measure PercentualComputadoresEstud =
+			
+			VAR TotalVariavel = CALCULATE(COUNTROWS(dados), dados[IN_DESKTOP_ALUNO] = 1)
+			VAR TotalRegistros = CALCULATE(COUNTROWS(dados))
+			RETURN
+			DIVIDE(TotalVariavel, TotalRegistros, 0)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: d199a2e7-a95f-41c5-98ae-370160391a36
+
+	measure PercentualMultimidia =
+			
+			VAR TotalVariavel = CALCULATE(COUNTROWS(dados), dados[IN_EQUIP_MULTIMIDIA] = 1)
+			VAR TotalRegistros = CALCULATE(COUNTROWS(dados))
+			RETURN
+			DIVIDE(TotalVariavel, TotalRegistros, 0)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: c8e02e4f-cb62-400a-95b5-04851312655f
+
+	measure PercentualComputadoresPortateisEstud =
+			
+			VAR TotalVariavel = CALCULATE(COUNTROWS(dados), dados[IN_COMP_PORTATIL_ALUNO] = 1)
+			VAR TotalRegistros = CALCULATE(COUNTROWS(dados))
+			RETURN
+			DIVIDE(TotalVariavel, TotalRegistros, 0)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: e5ef4ab6-40af-4466-9bfc-3891b9dbfb29
+
+	measure PercentualLousaDigital =
+			
+			VAR TotalVariavel = CALCULATE(COUNTROWS(dados), dados[IN_EQUIP_LOUSA_DIGITAL] = 1)
+			VAR TotalRegistros = CALCULATE(COUNTROWS(dados))
+			RETURN
+			DIVIDE(TotalVariavel, TotalRegistros, 0)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: 8ce1f5df-e19f-4c23-ad52-016625e2b795
+
+	measure PercentualTabletsEstud =
+			
+			VAR TotalVariavel = CALCULATE(COUNTROWS(dados), dados[IN_TABLET_ALUNO] = 1)
+			VAR TotalRegistros = CALCULATE(COUNTROWS(dados))
+			RETURN
+			DIVIDE(TotalVariavel, TotalRegistros, 0)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: 2605afa5-e87a-4329-963d-ecd4bf078156
+
+	partition Medidas = m
+		mode: import
+		source =
+				let
+				    Fonte = Table.FromRows(Json.Document(Binary.Decompress(Binary.FromText("i44FAA==", BinaryEncoding.Base64), Compression.Deflate)), let _t = ((type nullable text) meta [Serialized.Text = true]) in type table [#"Coluna 1" = _t]),
+				    #"Tipo Alterado" = Table.TransformColumnTypes(Fonte,{{"Coluna 1", type text}}),
+				    #"Colunas Removidas" = Table.RemoveColumns(#"Tipo Alterado",{"Coluna 1"})
+				in
+				    #"Colunas Removidas"
+
+	annotation PBI_ResultType = Table
+
